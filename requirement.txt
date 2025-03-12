@@ -94,6 +94,3 @@ watchdog==6.0.0
 wcwidth==0.2.13
 xyzservices==2025.1.0
 yarg==0.1.10
-numpy
-pandas
-matplotlib
